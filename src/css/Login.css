@@ -1,0 +1,89 @@
+.Form-Inicio{
+    width: 10%;
+    text-align: center;
+    max-width: 539px;
+    min-width: 439px;
+    height: auto;
+    margin: auto;
+    background: #FFFFFF;
+    border: 1px solid #C6BDBD;
+    box-sizing: border-box;
+    box-shadow: 5px 5px 4px rgba(199, 199, 199, 0.67);
+    border-radius: 20px;
+}
+
+#Iniciar{
+    font-size: 30px;
+    margin: auto;
+    margin-top: 20px;
+    text-align: center;
+}
+
+#logo-responsive{
+    margin: auto;
+    width: 50%;
+    height: auto;
+}
+
+#Correo{ 
+    margin: auto;
+    margin-top: 3%;
+    opacity: 80%;
+    width: 85%;
+    top: 24.5%;
+    text-align: center;
+    font-size: 20px;
+}
+
+#Contraseña{
+    margin: auto;
+    margin-top: 3%;
+    opacity: 80%;
+    width: 85%;
+    top: 31.6%;
+    text-align: center;
+    font-size: 20px;
+}
+
+#Olvidar{
+    color: black;
+    text-decoration: underline;
+    text-align: center !important;
+    margin-top: 25px;
+}
+.btn-Ingresar{
+    height: 35px;
+    width: 80px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+
+}
+#Registrate{
+    color: black;
+    text-decoration: underline;
+    text-align: center !important;
+}
+
+.Redes-Login {
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+
+@media (max-width:1366px){
+    #Nombre{    
+        width: 82%;
+    }
+    #Contraseña{    
+        width: 82%;
+    }
+    .btnIngresar{
+        margin-left: 41%;
+    }
+
+}
+
+.espacio_para_que_no_se_vea_mal_el_icono_de_inicio{
+    height: 80px;
+}
+
